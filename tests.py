@@ -7,7 +7,7 @@ import datetime;
 
 year = 2021
 month = 10
-day = 2
+day = 6
 
 def test_code():
     assert main.countA("rat") == 1, "countA('rat') == 1 failed"
