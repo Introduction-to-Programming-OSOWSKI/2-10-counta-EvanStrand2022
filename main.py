@@ -5,8 +5,3 @@ def countA(w):
         if w[i] == "a":
             total = total+1
     return total
-
-
-
-
-l
